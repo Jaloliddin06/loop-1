@@ -1,0 +1,51 @@
+body {
+    background-color: #85a5d4;
+}
+
+.box {
+   margin: 80px 250px;
+   width: 1000px;
+   height: 350px;
+   background-color: #fff;
+  
+}
+
+.text-info {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+   
+}
+
+.about:hover {
+    background-color: rgb(184, 192, 198);
+}
+
+.mobile {
+    padding: 50px;
+    text-align: center;
+    cursor: pointer;
+    transition: ease 0.5s;
+  
+}
+
+.get_mobile {
+    width: 190px;
+}
+
+.enjoy-platforms {
+    width: 230px;
+}
+
+.favorite {
+    width: 230px;
+}
+
+.bluu {
+ color: #5572d6;
+}
+
+.style {
+    font-size: 24px;
+    color: #5572d6;
+}
